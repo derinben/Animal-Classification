@@ -2,6 +2,6 @@
 
 |     |      |
 |------------|-------------|
-| <img src="tiger.png">| <img src="cheetah.png"> |
+| <img src="samples/tiger.png">| <img src="samples/cheetah.png"> |
 |             |            |
-| <img src="jaguar.png">| <img src="hyena.png"> |
+| <img src="samples/jaguar.png">| <img src="samples/hyena.png"> |
