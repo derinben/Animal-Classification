@@ -1,4 +1,4 @@
-# Animal Classification 
+# WildCats Classification 
 
 |     |      |
 |------------|-------------|
