@@ -1,5 +1,4 @@
-# Animal Classification
-<h3> To classify Cheetah, Tiger, Jaguar, Hyena. </h3>
+# Animal Classification 
 
 |     |      |
 |------------|-------------|
