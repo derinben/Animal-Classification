@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: animal-imageclassifier
+spec:
+  type: LoadBalancer
+  selector:
+    app: animal-imageclassifier
+  ports:
+  - port: 80
+    targetPort: 8501
